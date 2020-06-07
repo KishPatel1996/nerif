@@ -1,0 +1,4 @@
+data/
+.vscode
+api_key.py
+__pycache__
